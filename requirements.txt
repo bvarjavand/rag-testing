@@ -1,0 +1,8 @@
+pandas
+numpy
+weaviate-client
+detoxify
+torch
+datasets
+prometheus
+logging
