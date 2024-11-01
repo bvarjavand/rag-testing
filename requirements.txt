@@ -4,5 +4,5 @@ weaviate-client
 detoxify
 torch
 datasets
-prometheus
-logging
+prometheus_eval
+vllm
